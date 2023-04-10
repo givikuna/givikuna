@@ -5,6 +5,8 @@ I'm Givi!
 - 👯 I’m looking to collaborate more on open source projects
 - 🤔 I’m looking to learn more about web development
 
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=givikuna&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
