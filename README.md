@@ -2,7 +2,7 @@
 
 I'm Givi!
 
-- 👯 I’m looking to collaborate more on open source projects
+- 👯 I’m looking to contribute more to open source projects
 - 🤔 I’m looking to learn more about web development
 
 
