@@ -4,6 +4,9 @@ I'm Givi!
 
 - 👯 I’m looking to contribute more to open source projects
 - 🤔 I’m looking to learn more about web development
+- 🌱 Currently based in South Jersey
+
+<br>
 
 ### languages & tools:
 <p>
