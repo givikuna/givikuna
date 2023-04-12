@@ -5,14 +5,6 @@ I'm Givi!
 - 👯 I’m looking to contribute more to open source projects
 - 🤔 I’m looking to learn more about web development
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=givikuna&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=tokyonight&showicons=true)
-
 ### languages & tools:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -32,6 +24,19 @@ I'm Givi!
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
 </p>
+
+<br><br>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=givikuna&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=tokyonight&showicons=true)
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=givikuna&bg_color=1c1917&color=FFF&line=0891b2&point=0000FF&area_color=000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+
+
 
 <!--
 **givikuna/givikuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
