@@ -3,7 +3,7 @@
 I'm Givi!
 
 - 👯 I’m looking to contribute more to open source projects
-- 🤔 I’m looking to learn more about web development
+- 🤔 I’m looking to learn more about web development and cybersecurity
 - 🌱 Currently based in South Jersey
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
 
