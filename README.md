@@ -7,8 +7,6 @@ I'm Givi!
 - 🌱 Currently based in South Jersey
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
 
-<br>
-
 ### languages:
 <p>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
