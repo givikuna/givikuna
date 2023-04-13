@@ -25,7 +25,7 @@ I'm Givi!
   <a href="https://mochajs.org/"><img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="MochaJS" alt="MochaJS" width="40" height="40"/></a>&nbsp;
   <a href="https://wpilib.org/"><img src="https://images.squarespace-cdn.com/content/v1/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png" title="WPILib" alt="WPILib" width="40" height="40"/></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" title="ExpressJS" alt="ExpressJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://sinonjs.org/assets/images/logo.png"><img src="https://sinonjs.org/" title="SinonJS" alt="SinonJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://sinonjs.org/"><img src="https://sinonjs.org/assets/images/logo.png" title="SinonJS" alt="SinonJS" width="40" height="40"/></a>&nbsp;
 </p>
 
 ### tools:
