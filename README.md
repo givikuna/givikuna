@@ -6,7 +6,7 @@ I'm Givi!
 - 🤔 I’m looking to learn more about web development and cybersecurity
 - 🌱 Currently based in South Jersey
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
-- <a href="https://github.com/givikuna/PandaCrawler/"><img src="https://github.com/givikuna/PandaCrawler/blob/main/pandas/panda26.png" title="PandaCrawler" alt="PandaCrawler" width="5" height="5"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/)
+- <a href="https://github.com/givikuna/PandaCrawler/"><img src="https://github.com/givikuna/PandaCrawler/blob/main/pandas/panda26.png" title="PandaCrawler" alt="PandaCrawler" width="10" height="10"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/)
 
 ### languages:
 <p>
