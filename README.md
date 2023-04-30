@@ -45,13 +45,13 @@ I'm Givi!
 <br><br>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=givikuna&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=givikuna&theme=light&background=ffffff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=light&showicons=true&title_color=3b3bdb&text_color=#3b3bdb)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=givikuna&bg_color=1c1917&color=FFF&line=0891b2&point=0000FF&area_color=000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=givikuna&bg_color=fff&color=000&line=0891b2&point=#00b2d1&area_color=000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 
 
