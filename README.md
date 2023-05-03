@@ -39,7 +39,8 @@ I'm Givi!
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="github.com"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/givikuna/PandaCrawler/"><img src="https://github.com/givikuna/PandaCrawler/blob/main/pandas/panda26.png" title="PandaCrawler" alt="PandaCrawler" width="40" height="40"/></a>
+  <a href="https://meldmerge.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Meld_Logo.svg/1200px-Meld_Logo.svg.png" title="Meld", alt="Meld", width="40" height="40"></a>&nbsp;
+  <a href="https://daringfireball.net/projects/markdown/"><img src="https://plugins.jetbrains.com/files/14097/165316/icon/pluginIcon.png" title="Markdown", alt="Mardown", width="40" height="40"></a>&nbsp;
 </p>
 
 <br><br>
