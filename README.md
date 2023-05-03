@@ -8,7 +8,7 @@ I'm Givi!
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
 - <a href="https://github.com/givikuna/PandaCrawler"><img src="https://github.com/givikuna/PandaCrawler/blob/main/src/img/pandas/panda3.png" title="PandaCrawler" alt="PandaCrawler" width="15" height="15"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/)
 
-### languages:
+### Languages:
 <p>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
@@ -16,7 +16,7 @@ I'm Givi!
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
 </p>
 
-### frameworks:
+### Frameworks:
 <p>
   <a href="https://nodejs.org/en"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="https://www.chaijs.com/"><img src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" title="ChaiJS" alt="ChaiJS" width="40" height="40"/></a>&nbsp;
@@ -26,7 +26,7 @@ I'm Givi!
   <a href="https://sinonjs.org/"><img src="https://sinonjs.org/assets/images/logo.png" title="SinonJS" alt="SinonJS" width="40" height="40"/></a>&nbsp;
 </p>
 
-### tools:
+### Tools and technologies:
 <p>
   <a href="https://aws.amazon.com/"><img src="https://customcodefactory.com/wp-content/uploads/2019/12/aws-app-icon.jpg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
   <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/></a>&nbsp;
@@ -40,7 +40,8 @@ I'm Givi!
   <a href="github.com"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="https://meldmerge.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Meld_Logo.svg/1200px-Meld_Logo.svg.png" title="Meld", alt="Meld", width="40" height="40"></a>&nbsp;
-  <a href="https://daringfireball.net/projects/markdown/"><img src="https://plugins.jetbrains.com/files/14097/165316/icon/pluginIcon.png" title="Markdown", alt="Mardown", width="40" height="40"></a>&nbsp;
+  <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.icons8.com/fluency/512/markdown.png" title="Markdown", alt="Mardown", width="40" height="40"></a>&nbsp;
+  <a href="[https://daringfireball.net/projects/markdown/](https://www.docker.com/)"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker", alt="Docker", width="40" height="40"></a>&nbsp;
 </p>
 
 <br><br>
