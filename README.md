@@ -51,12 +51,14 @@ I'm Givi!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=givikuna&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=givikuna&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=givikuna&theme=vision_friendly_dark)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=highcontrast&showicons=true)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=givikuna&bg_color=000&color=fff&line=0891b2&point=#00b2d1&area_color=000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givikuna&theme=vision_friendly_dark&utcOffset=8)
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=givikuna&bg_color=000&color=fff&line=0891b2&point=#00b2d1&area_color=000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 
 <!--
