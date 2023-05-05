@@ -15,6 +15,7 @@ I'm Givi!
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://www.w3.org/TR/CSS/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/></a>&nbsp;
+<a href=""><img sec="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40" /></a>&nbsp;
 </p>
 
 ### Frameworks:
