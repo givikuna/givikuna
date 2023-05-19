@@ -14,12 +14,12 @@ I'm Givi!
   <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://isocpp.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="Typescript" alt="Typescript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/></a>&nbsp;
 </p>
 
 ### Frameworks:
 <p>
-  <a href="https://nodejs.org/en"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="https://wpilib.org/"><img src="https://images.squarespace-cdn.com/content/v1/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png" title="WPILib" alt="WPILib" width="40" height="40"/></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" title="ExpressJS" alt="ExpressJS" width="40" height="40"/></a>&nbsp;
   <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" title="VueJS" alt="VueJS" width="40" height="40"></a>&nbsp;
@@ -43,6 +43,7 @@ I'm Givi!
 <p>
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://rethinkdb.com/"><img src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/rethinkdb.png?e21d717c" title="RethinkDB" alt="RethinkDB" width="40" height="40"></a>&nbsp;
+</p>
 
 ### Other tools and technologies:
 <p>
