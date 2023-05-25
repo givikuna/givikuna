@@ -66,10 +66,6 @@ I'm Givi!
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=highcontrast&showicons=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givikuna&theme=vision_friendly_dark&utcOffset=8)
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=givikuna&bg_color=000&color=fff&line=0891b2&point=#00b2d1&area_color=000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
 <!--
 https://api.githubtrends.io/user/svg/givikuna/langs?time_range=six_months&use_percent=True&group=other&compact=True&theme=dark
 
