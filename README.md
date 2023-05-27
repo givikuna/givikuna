@@ -59,6 +59,9 @@ I'm Givi!
 
 <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=dark&show_icons=true&hide_border=true&layout=compact">
+
+<!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=givikuna&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -66,6 +69,8 @@ I'm Givi!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=givikuna&theme=vision_friendly_dark)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=givikuna&count_private=true&theme=highcontrast&showicons=true)
+
+-->
 
 <!--
 https://api.githubtrends.io/user/svg/givikuna/langs?time_range=six_months&use_percent=True&group=other&compact=True&theme=dark
