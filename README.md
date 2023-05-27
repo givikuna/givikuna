@@ -57,7 +57,7 @@ I'm Givi!
   <a href="[https://daringfireball.net/projects/markdown/](https://www.docker.com/)"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker", alt="Docker", width="40" height="40"></a>&nbsp;
 </p>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=dark&show_icons=true&hide_border=true&layout=compact">
 
