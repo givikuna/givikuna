@@ -57,7 +57,7 @@ I'm Givi!
   <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="40" height="40"></a>&nbsp;
   <a href="https://html.spec.whatwg.org/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
-   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
+   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
 </p>
 
 <br>
