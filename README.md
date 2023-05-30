@@ -25,6 +25,7 @@ I'm Givi!
   <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" title="ExpressJS" alt="ExpressJS" width="40" height="40"/></a>&nbsp;
   <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" title="VueJS" alt="VueJS" width="40" height="40"></a>&nbsp;
   <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" title="Bootstrap" alt="Bootstrap" height="40" width="40"></a>&nbsp;
+    <a href="https://html.spec.whatwg.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
 </p>
 
 ### Testing:
@@ -55,7 +56,8 @@ I'm Givi!
   <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="40" height="40"></a>&nbsp;
-  <a href="https://html.spec.whatwg.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
+  <a href="https://html.spec.whatwg.org/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
+   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
 </p>
 
 <br>
