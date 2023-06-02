@@ -26,7 +26,6 @@ I'm Givi!
   <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" title="ExpressJS" alt="ExpressJS" width="40" height="40"/></a>&nbsp;
   <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" title="VueJS" alt="VueJS" width="40" height="40"></a>&nbsp;
   <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" title="Bootstrap" alt="Bootstrap" height="40" width="40"></a>&nbsp;
-    <a href="https://html.spec.whatwg.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="40" height="40"></a>&nbsp;
 </p>
 
 ### Testing:
