@@ -17,7 +17,7 @@ I'm Givi!
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://coffeescript.org/"><img src="https://seeklogo.com/images/C/coffeescript-logo-3BFDF9D06C-seeklogo.com.png" title="CoffeeScript" alt="CoffeeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://livescript.net/"><img src="https://avatars.githubusercontent.com/u/25471216?s=200&v=4" title="LiveScript" alt="LiveScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://crystal-lang.org/"><img src="https://crystal-lang.org/" title="Crystal" alt="Crystal" width="40" height="40" /></a>&nbsp;
+  <a href="https://crystal-lang.org/"><img src="https://crystal-lang.org/assets/icon.png" title="Crystal" alt="Crystal" width="40" height="40" /></a>&nbsp;
 </p>
 
 ### Frameworks:
