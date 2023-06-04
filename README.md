@@ -18,7 +18,7 @@ I'm Givi!
   <a href="https://coffeescript.org/"><img src="https://seeklogo.com/images/C/coffeescript-logo-3BFDF9D06C-seeklogo.com.png" title="CoffeeScript" alt="CoffeeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://livescript.net/"><img src="https://avatars.githubusercontent.com/u/25471216?s=200&v=4" title="LiveScript" alt="LiveScript" width="40" height="40"/></a>&nbsp;
   <a href="https://crystal-lang.org/"><img src="https://crystal-lang.org/assets/icon.png" title="Crystal" alt="Crystal" width="40" height="40" /></a>&nbsp;
-  <a href""><img src="https://avatars.githubusercontent.com/u/743164?s=280&v=4" title="Julia" alt="Julia" height="40" width="40" /></a>
+  <a href"https://julialang.org/"><img src="https://avatars.githubusercontent.com/u/743164?s=280&v=4" title="Julia" alt="Julia" height="40" width="40" /></a>
 </p>
 
 ### Frameworks:
