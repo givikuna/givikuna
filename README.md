@@ -17,7 +17,7 @@ I'm Givi!
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://coffeescript.org/"><img src="https://seeklogo.com/images/C/coffeescript-logo-3BFDF9D06C-seeklogo.com.png" title="CoffeeScript" alt="CoffeeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://livescript.net/"><img src="https://avatars.githubusercontent.com/u/25471216?s=200&v=4" title="LiveScript" alt="LiveScript" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="40" height="40" /></a>&nbsp; -->
+  <a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="40" height="40" /></a>&nbsp;
   <!-- <a href="https://crystal-lang.org/"><img src="https://crystal-lang.org/assets/icon.png" title="Crystal" alt="Crystal" width="40" height="40" /></a>&nbsp;
   <a href"https://julialang.org/"><img src="https://avatars.githubusercontent.com/u/743164?s=280&v=4" title="Julia" alt="Julia" height="40" width="40" /></a> -->
 </p>
