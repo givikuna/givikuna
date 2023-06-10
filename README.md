@@ -7,6 +7,7 @@ I'm Givi!
 - 🌱 Currently living in South Jersey
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
 - <a href="https://github.com/givikuna/PandaCrawler"><img src="https://github.com/givikuna/PandaCrawler/blob/main/src/img/pandas/panda3.png" title="PandaCrawler" alt="PandaCrawler" width="15" height="15"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/)
+- <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Linux" alt="Linux" width="15" height="15"/> Avid Linux user and an enthusiast
 
 ### Languages:
 <p>
