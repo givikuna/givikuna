@@ -3,7 +3,7 @@
 I'm Givi!
 
 - 👯 I’m looking to contribute more to open source projects
-- 🤔 I’m looking to learn more about web development and cybersecurity
+- 🤔 I’m looking to learn more about software development and cybersecurity
 - 🌱 Currently living in South Jersey
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
 - <a href="https://github.com/givikuna/PandaCrawler"><img src="https://github.com/givikuna/PandaCrawler/blob/main/src/img/pandas/panda3.png" title="PandaCrawler" alt="PandaCrawler" width="15" height="15"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/)
