@@ -12,15 +12,12 @@ I'm Givi!
 ### Languages:
 <p>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+   <a href="https://www.rust-lang.org/"><img src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" title="Rust" alt="Rust" width="40" height="40" /></a>&nbsp;
   <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://isocpp.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"></a>&nbsp; -->
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://coffeescript.org/"><img src="https://seeklogo.com/images/C/coffeescript-logo-3BFDF9D06C-seeklogo.com.png" title="CoffeeScript" alt="CoffeeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://livescript.net/"><img src="https://avatars.githubusercontent.com/u/25471216?s=200&v=4" title="LiveScript" alt="LiveScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.rust-lang.org/"><img src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" title="Rust" alt="Rust" width="40" height="40" /></a>&nbsp;
-  <a href="https://crystal-lang.org/"><img src="https://crystal-lang.org/assets/icon.png" title="Crystal" alt="Crystal" width="40" height="40" /></a>&nbsp;
-  <!-- <a href"https://julialang.org/"><img src="https://avatars.githubusercontent.com/u/743164?s=280&v=4" title="Julia" alt="Julia" height="40" width="40" /></a> -->
 </p>
 
 ### Frameworks:
