@@ -66,7 +66,7 @@ I'm Givi!
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=7&hide=makefile">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=9&hide=makefile">
 <img src="https://github-readme-stats.vercel.app/api?username=givikuna&show_icons=true&theme=vue">
 
 <!--
