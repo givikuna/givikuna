@@ -12,7 +12,7 @@ I'm Givi!
 ### Languages:
 <p>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-   <a href="https://www.rust-lang.org/"><img src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
+   <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzY-Wk81WoKwNKVezLpoaGuQC4IrGfVgkjA&usqp=CAU" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
