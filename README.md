@@ -2,6 +2,10 @@
 
 I'm Givi!
 
+<a href="https://www.linkedin.com/in/givi-tsvariani-072355169/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" title="GitLab" alt="GitLab" width="20" height="20"></a>&nbsp;
+<a href="https://stackoverflow.com/users/13944164/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="GitLab" alt="GitLab" width="20" height="20"></a>&nbsp;
+<a href="https://gitlab.com/givikuna"><img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" title="GitLab" alt="GitLab" width="20" height="20"></a>&nbsp;
+
 - 👯 I’m looking to contribute more to open source projects
 - 🤔 I’m looking to learn more about software development and cybersecurity
 - 🌱 Currently living in South Jersey
