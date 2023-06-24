@@ -11,7 +11,7 @@ I'm Givi!
 - 🤔 I’m looking to learn more about software development and cybersecurity
 - 🌱 Currently living in South Jersey
 - 🌍 Can communicate proficiently in English & Georgian, and somewhat in Spanish
-- <a href="https://github.com/givikuna/PandaCrawler"><img src="https://github.com/givikuna/PandaCrawler/blob/main/src/img/pandas/panda3.png" title="PandaCrawler" alt="PandaCrawler" width="15" height="15"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/)
+- <a href="https://github.com/givikuna/PandaCrawler"><img src="https://github.com/givikuna/PandaCrawler/blob/main/src/img/pandas/panda3.png" title="PandaCrawler" alt="PandaCrawler" width="15" height="15"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/) and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
 - <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Linux" alt="Linux" width="15" height="15"/> Avid Linux user and an enthusiast
 
 ### Languages:
@@ -37,7 +37,7 @@ I'm Givi!
   <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" title="Svelte" alt="Svelte" height="40" width="40"></a>&nbsp;
 </p>
 
-### Testing:
+### Testing frameworks:
 <p>
   <a href="https://www.chaijs.com/"><img src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" title="ChaiJS" alt="ChaiJS" width="40" height="40"/></a>&nbsp;
   <a href="https://mochajs.org/"><img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="MochaJS" alt="MochaJS" width="40" height="40"/></a>&nbsp;
