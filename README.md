@@ -23,6 +23,7 @@ I'm Givi!
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://coffeescript.org/"><img src="https://seeklogo.com/images/C/coffeescript-logo-3BFDF9D06C-seeklogo.com.png" title="CoffeeScript" alt="CoffeeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://livescript.net/"><img src="https://avatars.githubusercontent.com/u/25471216?s=200&v=4" title="LiveScript" alt="LiveScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://markojs.com/"><img src="https://raw.githubusercontent.com/marko-js/branding/master/marko-logo-medium-cropped.png" title="Marko" alt="Marko" width="40" height="40"/></a>&nbsp;
 </p>
 
 ### Frameworks & libraries:
@@ -33,6 +34,7 @@ I'm Givi!
   <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" title="VueJS" alt="VueJS" width="40" height="40"></a>&nbsp;
   <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" title="Bootstrap" alt="Bootstrap" height="40" width="40"></a>&nbsp;
   <a href=""><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" title="jQuery" alt="jQuery" height="40" width="40"></a>&nbsp;
+  <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" title="Svelte" alt="Svelte" height="40" width="40"></a>&nbsp;
 </p>
 
 ### Testing:
