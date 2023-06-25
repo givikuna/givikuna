@@ -7,6 +7,8 @@ I'm Givi!
 <a href="https://gitlab.com/givikuna"><img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" title="GitLab" alt="GitLab" width="20" height="20"></a>&nbsp;
 <a href="https://discord.com/users/915302543981166643"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" title="Discord" alt="Discord" width="23" height="18"></a>&nbsp;
 
+
+
 - 👯 I’m looking to contribute more to open source projects
 - 🤔 I’m looking to learn more about software development and cybersecurity
 - 🌱 Currently living in South Jersey
