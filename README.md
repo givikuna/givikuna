@@ -15,7 +15,7 @@ I'm Givi!
 - <a href="https://github.com/givikuna/PandaCrawler"><img src="https://github.com/givikuna/PandaCrawler/blob/main/src/img/pandas/panda3.png" title="PandaCrawler" alt="PandaCrawler" width="17" height="15"/></a> Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/) and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
 - <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Linux" alt="Linux" width="17" height="15"/> Avid Linux user and an enthusiast
 - 🍚 Probably ricing my distro right now
-- <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" title="ProtonMail" alt="ProtonMail" width="20" height="15"/> Contact me at givitsvariani@proton.me
+- <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" title="ProtonMail" alt="ProtonMail" width="20" height="15"/> You can contact me at givitsvariani@proton.me
 
 
 ### Experienced in langauges such as:
