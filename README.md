@@ -17,5 +17,5 @@ I'm Givi!
 - <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Linux" alt="Linux" width="15" height="15"/> Avid Linux user and an enthusiast
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=9&hide=makefile">
-<img src="https://github-readme-stats.vercel.app/api?username=givikuna&show_icons=true&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api?username=givikuna&show_icons=true&theme=vue&hide_border=true">
 
