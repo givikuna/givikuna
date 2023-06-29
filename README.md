@@ -25,7 +25,8 @@ I'm Givi!
 <a href="https://www.rust-lang.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDE3ycOdh2sFzSkIpklnB7WrhiEjxnpSwwZ-6G12j7RT4yCyHLNFgPQGgTrtishTkZOZ8&usqp=CAU" title="Rust" alt="Rust" width="30" height="30"/></a>&nbsp;
 <a href="https://coffeescript.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKINUyQX55wmLRMFy_C7Mg-UVoeiram6mNxODL5wOozyVz__LvD2lXgOnN20O8cZv13NU&usqp=CAU" title="CoffeeScript" alt="CoffeeScript" width="30" height="30"/></a>&nbsp;
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" title="Python" alt="Python" width="30" height="30"/></a>&nbsp;
-<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" width="30" height="30" alt="Java"/></a>&nbsp;
+<a href="https://www.java.com/en/"><img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" title="Java" width="30" height="30" alt="Java"/></a>&nbsp;
+<a href="https://livescript.net/"><img src="https://avatars.githubusercontent.com/u/25471216?s=200&v=4" title="LiveScript" width="30" height="30" alt="LiveScript"/></a>&nbsp;
 
 ### And libraries/frameworks such as:
 &nbsp;&nbsp;&nbsp;
