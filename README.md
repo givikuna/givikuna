@@ -9,6 +9,16 @@ I'm Givi!
 <a href="https://www.instagram.com/gv0069/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" title="Instagram" alt="Instagram" width="23" height="18"></a>&nbsp;
 
 
+- I’m looking to contribute more to open source projects
+- I’m looking to learn more about software development and cybersecurity
+- Currently living in South Jersey
+- Can communicate proficiently in English & Georgian, and somewhat in Spanish
+- Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/) and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
+- Avid Linux user and an enthusiast
+- You can contact me at givitsvariani@proton.me
+- I like using obscure programming languages
+
+<!--
 - 👯 I’m looking to contribute more to open source projects
 - 🤔 I’m looking to learn more about software development and cybersecurity
 - 🌱 Currently living in South Jersey
@@ -17,8 +27,10 @@ I'm Givi!
 - <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Linux" alt="Linux" width="17" height="15"/> Avid Linux user and an enthusiast
 - 🍚 Probably ricing my distro right now
 - <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" title="ProtonMail" alt="ProtonMail" width="20" height="15"/> You can contact me at givitsvariani@proton.me
+-->
 
 
+<!--
 ### Experienced in langauges such as:
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="30" height="30"/></a>&nbsp;
@@ -47,6 +59,7 @@ I'm Givi!
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;
 <a href="https://ubuntu.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
 <a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
+-->
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=makefile">
