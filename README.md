@@ -13,7 +13,7 @@ I'm Givi!
 - I’m looking to learn more about software development and cybersecurity
 - Currently living in South Jersey
 - Can communicate proficiently in English & Georgian, and somewhat in Spanish
-- Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/) and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
+- Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/), [yalpm](https://github.com/givikuna/yalpm), and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
 - Avid Linux user and an enthusiast
 - You can contact me at givitsvariani@proton.me
 - I like using obscure programming languages
