@@ -9,14 +9,11 @@ I'm Givi!
 <a href="https://www.instagram.com/gv0069/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" title="Instagram" alt="Instagram" width="23" height="18"></a>&nbsp;
 
 
-- I’m looking to contribute more to open source projects
-- I’m looking to learn more about software development and cybersecurity
-- Currently living in South Jersey
-- Can communicate proficiently in English & Georgian, and somewhat in Spanish
 - Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/), [yalpm](https://github.com/givikuna/yalpm), and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
 - Avid Linux user and an enthusiast
 - You can contact me at givitsvariani@proton.me
-- I like using obscure programming languages
+- I like using obscure programming languages and ricing random Linux distros
+- Fluent in Georgian and English and somewhat in Spanish
 
 <!--
 - 👯 I’m looking to contribute more to open source projects
