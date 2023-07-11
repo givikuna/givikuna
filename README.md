@@ -39,7 +39,13 @@ I'm Givi!
 <a href="https://sinonjs.org/"><img src="https://sinonjs.org/assets/images/logo.png" title="SinonJS" alt="SinonJS" width="30" height="30"/></a>&nbsp;
 <a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="ExpressJS" alt="ExpressJS" width="30" height="30"/></a>&nbsp;
 <a href="https://wpilib.org/"><img src="https://images.squarespace-cdn.com/content/v1/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png" title="WPILib" alt="WPILib" width="30" height="30"/></a>&nbsp;
-<a href="https://jquery.com/"><img src="https://cdn.cdnlogo.com/logos/j/17/jquery.svg" title="jQuery" alt="jQuery" width="30" height="30"/></a>&nbsp;
+<a href="https://jquery.com/"><img src="https://cdn.cdnlogo.com/logos/j/17/jquery.svg" title="jQuery" alt="jQuery" width="30" height="30"/></a>&nbsp;<a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" title="Linux" alt="Linux" width="30" height="30"/></a>&nbsp;
+<a href="https://www.linode.com/"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1397190105/5e103d9c1b0c688a4a2813e76176e663.png" title="Linode" alt="Linode" width="30" height="30"/></a>&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/></a>&nbsp;
+<a href="https://html.spec.whatwg.org/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML" alt="HTML" width="30" height="30"/></a>&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;
+<a href="https://ubuntu.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
+<a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
 
 
 <!--
