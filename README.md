@@ -9,7 +9,7 @@ I'm Givi!
 <a href="https://www.instagram.com/gv0069/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" title="Instagram" alt="Instagram" width="23" height="18"></a>&nbsp;
 
 
-- Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/), [yalpm](https://github.com/givikuna/yalpm), and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
+- Currently building [PandaCrawler](https://github.com/givikuna/PandaCrawler/), [yaupm](https://github.com/givikuna/yaupm), and [PythonifiedScript](https://github.com/givikuna/PythonifiedScipt/)
 - Avid Linux user and an enthusiast
 - You can contact me at givitsvariani@proton.me
 - I like using obscure programming languages and ricing random Linux distros
