@@ -58,7 +58,13 @@ I'm Givi!
 <a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
 -->
 
+![givikuna's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=pie&langs_count=10&hide=makefile&hide_border=true&title_color=C500FF&theme=swift)
+
+
+<!--
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=9&hide=makefile">
 <img src="https://github-readme-stats.vercel.app/api?username=givikuna&show_icons=true&theme=vue&hide_border=true">
+
+-->
 
