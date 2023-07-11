@@ -27,7 +27,7 @@ I'm Givi!
 -->
 
 
-### Skills: &nbsp;nbsp;nbsp;
+### Skills: &nbsp;&nbsp;&nbsp;
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="30" height="30"/></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOP2uNm38KA2xvp87SjlO-ECz8fVN310YgdtTPogEP0_BegdW_rxIbuAMO-w6UT1-tpNI&usqp=CAU" title="TypeScript" alt="TypeScript" width="30" height="30"/></a>&nbsp;
 <a href="https://www.rust-lang.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDE3ycOdh2sFzSkIpklnB7WrhiEjxnpSwwZ-6G12j7RT4yCyHLNFgPQGgTrtishTkZOZ8&usqp=CAU" title="Rust" alt="Rust" width="30" height="30"/></a>&nbsp;
@@ -45,7 +45,7 @@ I'm Givi!
 <a href="https://html.spec.whatwg.org/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML" alt="HTML" width="30" height="30"/></a>&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;
 <a href="https://ubuntu.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
-<a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
+<a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;<a href="https://go.dev/"><img src="https://www.dmuth.org/wp-content/uploads/2018/12/golang-gopher-not-a-serial-killer.png" width="30" height="30" /></a>
 
 
 <!--
@@ -78,6 +78,8 @@ I'm Givi!
 <a href="https://ubuntu.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
 <a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
 -->
+
+<br/><br/>
 
 ![givikuna's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=pie&langs_count=9&hide=makefile&hide_border=true&title_color=C500FF&theme=swift)
 
