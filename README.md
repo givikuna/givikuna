@@ -81,7 +81,7 @@ I'm Givi!
 
 <br/><br/>
 
-![givikuna's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=pie&langs_count=10&hide=makefile&hide_border=true&title_color=C500FF&theme=swift)
+![givikuna's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=pie&langs_count=10&hide_border=true&title_color=C500FF&theme=swift)
 
 
 <!--
