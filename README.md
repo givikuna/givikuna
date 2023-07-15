@@ -45,7 +45,8 @@ I'm Givi!
 <a href="https://html.spec.whatwg.org/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML" alt="HTML" width="30" height="30"/></a>&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;
 <a href="https://ubuntu.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
-<a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;<a href="https://go.dev/"><img src="https://www.dmuth.org/wp-content/uploads/2018/12/golang-gopher-not-a-serial-killer.png" width="30" height="30" /></a>
+<a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;<a href="https://go.dev/"><img src="https://www.dmuth.org/wp-content/uploads/2018/12/golang-gopher-not-a-serial-killer.png" title="Go" alt="Go" width="30" height="30" /></a>&nbsp;
+<a href="https://nodejs.org/en"><img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" title="NodeJS" alt="NodeJS" width="30" height="30" /></a>&nbsp;
 
 
 <!--
