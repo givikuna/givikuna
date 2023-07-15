@@ -92,3 +92,10 @@ I'm Givi!
 
 -->
 
+<div style="text-align: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=givikuna&theme=nord_bright">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=givikuna&theme=nord_bright&exclude=makefile">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=givikuna&theme=nord_bright&exclude=makefile">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=givikuna&theme=nord_bright">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givikuna&theme=nord_bright&utcOffset=8">
+</div>
