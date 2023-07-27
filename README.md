@@ -47,6 +47,7 @@ I'm Givi!
 <a href="https://ubuntu.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;
 <a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;<a href="https://go.dev/"><img src="https://www.dmuth.org/wp-content/uploads/2018/12/golang-gopher-not-a-serial-killer.png" title="Go" alt="Go" width="30" height="30" /></a>&nbsp;
 <a href="https://nodejs.org/en"><img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" title="NodeJS" alt="NodeJS" width="30" height="30" /></a>&nbsp;
+<a href="https://www.gnu.org/software/make/manual/make.html"><img src="https://static-00.iconduck.com/assets.00/file-type-makefile-icon-512x500-3chommud.png" title="GNU Make" alt="GNU Make" width="30" height="30" /></a>&nbsp;
 
 
 <!--
