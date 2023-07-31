@@ -14,6 +14,7 @@ I'm Givi!
 - You can contact me at givitsvariani@proton.me
 - I like using obscure programming languages and ricing random Linux distros
 - Fluent in Georgian and English and somewhat in Spanish
+- Big <a href="https://livescript.net/">LiveScript</a> fanboy
 
 <!--
 - 👯 I’m looking to contribute more to open source projects
