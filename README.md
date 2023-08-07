@@ -8,6 +8,9 @@ I'm Givi!
 <a href="https://discord.com/users/915302543981166643"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" title="Discord" alt="Discord" width="23" height="18"></a>&nbsp;
 <a href="https://www.instagram.com/gv0069/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" title="Instagram" alt="Instagram" width="23" height="18"></a>&nbsp;
 
+Big <a href="https://livescript.net/">LiveScript</a> fanboy
+
+<!--
 
 - Currently building [yaupm](https://github.com/givikuna/yaupm), and [lsse](https://github.com/givikuna/livescript-syntax-extension/)
 - Avid Linux user and an enthusiast
@@ -15,6 +18,8 @@ I'm Givi!
 - I like using obscure programming languages and ricing random Linux distros
 - Fluent in Georgian and English and somewhat in Spanish
 - Big <a href="https://livescript.net/">LiveScript</a> fanboy
+
+-->
 
 <!--
 - 👯 I’m looking to contribute more to open source projects
