@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=givikuna" alt="givikuna" /></a> </p>
 
-#### Big <a href="https://livescript.net/">LiveScript</a> fanboy
+#### Big <a href="https://livescript.net/">LiveScript</a> and <a href="https://jquery.com/">jQuery</a> fanboy
 
 <!--
 
