@@ -102,6 +102,11 @@
 
 -->
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=givikuna&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,less" alt="givikuna" />
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=givikuna&theme=nord_bright">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givikuna&theme=nord_bright&utcOffset=8">
+
 <!--
 
 <p align="center">
