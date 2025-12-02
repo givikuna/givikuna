@@ -33,6 +33,7 @@
 - <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" title="ProtonMail" alt="ProtonMail" width="20" height="15"/> You can contact me at givitsvariani@proton.me
 -->
 
+<!--
 ### Skills: &nbsp;&nbsp;&nbsp;
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="30" height="30"/></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOP2uNm38KA2xvp87SjlO-ECz8fVN310YgdtTPogEP0_BegdW_rxIbuAMO-w6UT1-tpNI&usqp=CAU" title="TypeScript" alt="TypeScript" width="30" height="30"/></a>&nbsp;
@@ -54,7 +55,7 @@
 <a href="https://www.debian.org/"><img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" title="Debian" alt="Debian" width="30" height="30"/></a>&nbsp;<a href="https://go.dev/"><img src="https://www.dmuth.org/wp-content/uploads/2018/12/golang-gopher-not-a-serial-killer.png" title="Go" alt="Go" width="30" height="30" /></a>&nbsp;
 <a href="https://nodejs.org/en"><img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" title="NodeJS" alt="NodeJS" width="30" height="30" /></a>&nbsp;
 <a href="https://www.gnu.org/software/make/manual/make.html"><img src="https://static-00.iconduck.com/assets.00/file-type-makefile-icon-512x500-3chommud.png" title="GNU Make" alt="GNU Make" width="30" height="30" /></a>&nbsp;
-
+-->
 
 
 <!--
