@@ -94,19 +94,14 @@
 <br/><br/>
 
 
-<!--
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=makefile">
 <img src="https://github-readme-stats.vercel.app/api?username=givikuna&show_icons=true&theme=vue&hide_border=true">
 
--->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=givikuna&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,less" alt="givikuna" />
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=givikuna&theme=nord_bright">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givikuna&theme=nord_bright&utcOffset=8">
-
-<!--
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=givikuna&theme=nord_bright">
@@ -143,5 +138,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=givikuna&show_icons=true&locale=en" alt="givikuna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=givikuna&" alt="givikuna" /></p>
-
--->
