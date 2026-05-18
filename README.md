@@ -6,14 +6,14 @@
 * majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
 * minor in [physics](https://physics.rutgers.edu/)
 
-##### github <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="20" height="20" alt="github-logo"> - [givikuna](https://github.com/givikuna)
-##### gitlab <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="20" height="20" alt="gitlab-logo"> - [givikuna](https://gitlab.com/givikuna)
-##### codeberg <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="20" height="20" alt="codeberg-logo"> - [giviko](https://codeberg.org/giviko)
-##### linkedin <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="20" height="20" alt="linkedin-logo"> - [givi-tsvariani-072355169](https://www.linkedin.com/in/givi-tsvariani-072355169/)
-##### stack overflow <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="stack-overflow-logo"> - [giviko](https://stackoverflow.com/users/13944164/giviko)
-##### leetcode <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="20" height="20" alt="leetcode-logo"> - [giviko](https://leetcode.com/u/giviko/)
-##### instagram <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="instagram-logo"> - [gv0069](https://www.instagram.com/gv0069)
-##### youtube <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="youtube-logo"> - [giviko](https://www.youtube.com/@giviko1709)
+#### github <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="20" height="20" alt="github-logo"> - [givikuna](https://github.com/givikuna)
+#### gitlab <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="20" height="20" alt="gitlab-logo"> - [givikuna](https://gitlab.com/givikuna)
+#### codeberg <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="20" height="20" alt="codeberg-logo"> - [giviko](https://codeberg.org/giviko)
+#### linkedin <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="20" height="20" alt="linkedin-logo"> - [givi-tsvariani-072355169](https://www.linkedin.com/in/givi-tsvariani-072355169/)
+#### stack overflow <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="stack-overflow-logo"> - [giviko](https://stackoverflow.com/users/13944164/giviko)
+#### leetcode <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="20" height="20" alt="leetcode-logo"> - [giviko](https://leetcode.com/u/giviko/)
+#### instagram <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="instagram-logo"> - [gv0069](https://www.instagram.com/gv0069)
+#### youtube <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="youtube-logo"> - [giviko](https://www.youtube.com/@giviko1709)
 
 <br><hr><br>
 
@@ -57,8 +57,8 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
 
-##### hosted at [https://github.com/givikuna/nixfiles](https://github.com/givikuna/nixfiles)
-##### personal nix hyprland configuration with many optimizations
+#### hosted at [https://github.com/givikuna/nixfiles](https://github.com/givikuna/nixfiles)
+#### personal nix hyprland configuration with many optimizations
 
 <br>
 
@@ -68,8 +68,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
-##### hosted at [https://github.com/givikuna/WarframeCardGame](https://github.com/givikuna/WarframeCardGame)
-##### multiplayer card game based on [warframe](https://www.warframe.com/en/game/about)
+#### hosted at [https://github.com/givikuna/WarframeCardGame](https://github.com/givikuna/WarframeCardGame)
+#### multiplayer card game based on [warframe](https://www.warframe.com/en/game/about)
 
 <br>
 
