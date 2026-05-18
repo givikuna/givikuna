@@ -82,6 +82,6 @@
 <a href="https://livescript.net/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuYofMyCpa_yi1W1_XKTgk5KXywbVvg9EzQ&s" width="30" height="30" alt="livescript"></a>
 <a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
 
-##### hosted at [https://github.com/givikuna/encodex](https://github.com/givikuna/encodex)
-##### npm library for simulating physics, computers, and game systems
-##### also provides various utilities for lists, strings, numbers, functions, types, data structures, monads, algorithms and more
+#### hosted at [https://github.com/givikuna/encodex](https://github.com/givikuna/encodex)
+#### npm library for simulating physics, computers, and game systems
+#### also provides various utilities for lists, strings, numbers, functions, types, data structures, monads, algorithms and more
