@@ -8,6 +8,7 @@
 
 ### i use arch btw
 ### & nix
+### im also a member of [rg134](https://github.com/rg134)
 
 #### github <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="20" height="20" alt="github-logo"> - [givikuna](https://github.com/givikuna)
 #### gitlab <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="20" height="20" alt="gitlab-logo"> - [givikuna](https://gitlab.com/givikuna)
