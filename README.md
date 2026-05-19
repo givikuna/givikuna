@@ -44,6 +44,7 @@
 <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Markdown-blue-solid.svg/3840px-Markdown-blue-solid.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="markdown"></a>
 <a href="https://livescript.net/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuYofMyCpa_yi1W1_XKTgk5KXywbVvg9EzQ&s" width="30" height="30" alt="livescript"></a>
 <a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
+<a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
 
 <!--
 <a href=""><img src="" width="30" height="30" alt=""></a>
@@ -60,7 +61,6 @@
 <a href="https://fishshell.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Fish_icon.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="fish"></a>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
-
 #### hosted at [https://github.com/givikuna/nixfiles](https://github.com/givikuna/nixfiles)
 #### personal nix hyprland configuration with many optimizations
 
@@ -82,7 +82,18 @@
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
 <a href="https://livescript.net/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuYofMyCpa_yi1W1_XKTgk5KXywbVvg9EzQ&s" width="30" height="30" alt="livescript"></a>
 <a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
-
 #### hosted at [https://github.com/givikuna/encodex](https://github.com/givikuna/encodex)
 #### npm library for simulating physics, computers, and game systems
 #### also provides various utilities for lists, strings, numbers, functions, types, data structures, monads, algorithms and more
+
+
+<br>
+
+### rgtube
+<a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
+<a href="https://rust-lang.org/"><img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="30" height="30" alt="rust"></a>
+<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="linux"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
+<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="react"></a>
+#### hosted at [https://github.com/rg134/rgtube](https://github.com/rg134/rgtube)
+#### self-hosted free youtube client designed to allow for multiple different viewing profiles
