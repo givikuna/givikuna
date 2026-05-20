@@ -6,8 +6,6 @@
 * majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
 * minor in [physics](https://physics.rutgers.edu/)
 
-### i use arch btw
-### & nix
 ### im also a member of [rg134](https://github.com/rg134)
 
 #### github <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="20" height="20" alt="github-logo"> - [givikuna](https://github.com/givikuna)
