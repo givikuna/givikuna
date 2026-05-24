@@ -43,6 +43,7 @@
 <a href="https://livescript.net/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuYofMyCpa_yi1W1_XKTgk5KXywbVvg9EzQ&s" width="30" height="30" alt="livescript"></a>
 <a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
 <a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
+<a href="https://www.digitalocean.com/"><img src="https://companieslogo.com/img/orig/DOCN-6eec72eb.png?t=1720244491" width="30" height="30" alt="digital-ocean"></a>
 
 <!--
 <a href=""><img src="" width="30" height="30" alt=""></a>
