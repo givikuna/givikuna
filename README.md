@@ -6,8 +6,6 @@
 * majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
 * minor in [physics](https://physics.rutgers.edu/)
 
-### im also a member of [rg134](https://github.com/rg134)
-
 #### github <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="20" height="20" alt="github-logo"> - [givikuna](https://github.com/givikuna)
 #### gitlab <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="20" height="20" alt="gitlab-logo"> - [givikuna](https://gitlab.com/givikuna)
 #### codeberg <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="20" height="20" alt="codeberg-logo"> - [giviko](https://codeberg.org/giviko)
@@ -95,4 +93,13 @@
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
 <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="react"></a>
 #### hosted at [https://github.com/rg134/rgtube](https://github.com/rg134/rgtube)
-#### self-hosted free youtube client designed to allow for multiple different viewing profiles
+#### youtube client designed to allow for multiple different viewing profiles ad & tracking free
+
+
+<br>
+<br>
+
+### Contact
+* All Hail Richard Stallman]
+* If needed you can reach me at gvtsvariani@gmail.com
+* Or on any of my social media (although response times will vary)
