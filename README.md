@@ -1,17 +1,18 @@
 # hello
 
-## i am givi
+## it's givi
 <a href="https://github.com/givikuna"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25" height="25" alt="github-logo"></a>&nbsp;
 <a href="https://gitlab.com/givikuna"><img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="25" height="25" alt="gitlab-logo"></a>&nbsp;
 <a href="https://codeberg.org/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="25" height="25" alt="codeberg-logo"></a>&nbsp;
 <a href="https://www.linkedin.com/in/givi-tsvariani-072355169/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="25" height="25" alt="linkedin-logo"></a>&nbsp;
 <a href="https://stackoverflow.com/users/13944164/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="stack-overflow-logo"></a>&nbsp;
 <a href="https://leetcode.com/u/giviko/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="25" height="25" alt="leetcode-logo"></a>&nbsp;
+<a href="https://www.npmjs.com/~givik0"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="25" height="25" alt="npm-logo"></a>
 <a href="https://www.instagram.com/gv0069"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="instagram-logo"></a>&nbsp;
 <a href="https://www.youtube.com/@giviko1709"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="youtube-logo"></a>&nbsp;
 <a href="https://mastodon.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1280px-Mastodon_Logotype_%28Simple%29.svg.png" width="25" height="25" alt="mastodon-logo"></a>&nbsp;
-<a href="https://pixelfed.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pixelfed_logo_multicolor_%28September_2018%29.svg/1280px-Pixelfed_logo_multicolor_%28September_2018%29.svg.png" width="25" height="25"></a>&nbsp;
-<a href="https://odysee.com/@giviko:c4abf0d520"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Odysee_Logo.svg/1280px-Odysee_Logo.svg.png" width="25" height="25"></a>
+<a href="https://pixelfed.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pixelfed_logo_multicolor_%28September_2018%29.svg/1280px-Pixelfed_logo_multicolor_%28September_2018%29.svg.png" width="25" height="25" alt="pixelfed-logo"></a>&nbsp;
+<a href="https://odysee.com/@giviko:c4abf0d520"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Odysee_Logo.svg/1280px-Odysee_Logo.svg.png" width="25" height="25" alt="odysee-logo"></a>
 
 ### student at [rutgers](https://www.rutgers.edu/)
 #### majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
@@ -102,6 +103,5 @@
 <br>
 
 ### Contact
-* All Hail Richard Stallman]
-* If needed you can reach me at gvtsvariani@gmail.com
-* Or on any of my social media (although response times will vary)
+* you can reach me at gvtsvariani@gmail.com
+* or any of my social media (although response times will vary)
