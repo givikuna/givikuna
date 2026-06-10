@@ -1,21 +1,23 @@
 # hello
 
 ## i am givi
+<a href="https://github.com/givikuna"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25" height="25" alt="github-logo"></a>&nbsp;
+<a href="https://gitlab.com/givikuna"><img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="25" height="25" alt="gitlab-logo"></a>&nbsp;
+<a href="https://codeberg.org/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="25" height="25" alt="codeberg-logo"></a>&nbsp;
+<a href="https://www.linkedin.com/in/givi-tsvariani-072355169/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="25" height="25" alt="linkedin-logo"></a>&nbsp;
+<a href="https://stackoverflow.com/users/13944164/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="stack-overflow-logo"></a>&nbsp;
+<a href="https://leetcode.com/u/giviko/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="25" height="25" alt="leetcode-logo"></a>&nbsp;
+<a href="https://www.instagram.com/gv0069"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="instagram-logo"></a>&nbsp;
+<a href="https://www.youtube.com/@giviko1709"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="youtube-logo"></a>&nbsp;
+<a href="https://mastodon.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1280px-Mastodon_Logotype_%28Simple%29.svg.png" width="25" height="25" alt="mastodon-logo"></a>&nbsp;
+<a href="https://pixelfed.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pixelfed_logo_multicolor_%28September_2018%29.svg/1280px-Pixelfed_logo_multicolor_%28September_2018%29.svg.png" width="25" height="25"></a>&nbsp;
+<a href="https://odysee.com/@giviko:c4abf0d520"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Odysee_Logo.svg/1280px-Odysee_Logo.svg.png" width="25" height="25"></a>
 
-### i study at [rutgers](https://www.rutgers.edu/)
-* majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
-* minor in [physics](https://physics.rutgers.edu/)
+### student at [rutgers](https://www.rutgers.edu/)
+#### majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
+#### minor in [physics](https://physics.rutgers.edu/)
 
-#### github <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="20" height="20" alt="github-logo"> - [givikuna](https://github.com/givikuna)
-#### gitlab <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="20" height="20" alt="gitlab-logo"> - [givikuna](https://gitlab.com/givikuna)
-#### codeberg <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="20" height="20" alt="codeberg-logo"> - [giviko](https://codeberg.org/giviko)
-#### linkedin <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="20" height="20" alt="linkedin-logo"> - [givi-tsvariani-072355169](https://www.linkedin.com/in/givi-tsvariani-072355169/)
-#### stack overflow <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="stack-overflow-logo"> - [giviko](https://stackoverflow.com/users/13944164/giviko)
-#### leetcode <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="20" height="20" alt="leetcode-logo"> - [giviko](https://leetcode.com/u/giviko/)
-#### instagram <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="instagram-logo"> - [gv0069](https://www.instagram.com/gv0069)
-#### youtube <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="20" height="20" alt="youtube-logo"> - [giviko](https://www.youtube.com/@giviko1709)
-
-<br><hr><br>
+<br><br>
 
 ## Tech Stack
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
@@ -47,7 +49,7 @@
 <a href=""><img src="" width="30" height="30" alt=""></a>
 -->
 
-<br><hr><br>
+<br><br><br>
 
 ## Projects
 
