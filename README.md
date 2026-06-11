@@ -46,6 +46,11 @@
 <a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
 <a href="https://www.digitalocean.com/"><img src="https://companieslogo.com/img/orig/DOCN-6eec72eb.png?t=1720244491" width="30" height="30" alt="digital-ocean"></a>
 <a href="https://yggdrasil-network.github.io/"><img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30" alt="yggdrasil"></a>
+<a href="https://github.com/casey/just"><img src="https://dev.solita.fi/img/2024-09-05-the-x-files/just-icon.png" width="30" height="30" alt="just"></a>
+<a href="https://typst.app/"><img src="https://avatars.githubusercontent.com/u/67595261?v=4" width="30" height="30" alt="typst"></a>
+<a href="https://www.latex-project.org/"><img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" width="30" height="30" alt="latex"></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
+<a href="https://www.haskell.org/"><img src="https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png" width="30" height="30" alt="haskell"></a>
 -->
 
 <!--
@@ -54,7 +59,7 @@
 
 <br>
 
-# Projects
+# Programming Projects
 
 ## nixfiles
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
@@ -64,7 +69,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
 <a href="https://yggdrasil-network.github.io/"><img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30" alt="yggdrasil"></a>
-* source code hosted at <a href="[https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
+* source code hosted at <a href="https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
 * multi-host nix configuration
 * creates a fully reproducible fleet of personal computers and servers running all kinds of software
 * uses a custom distrobox module and scripts to allow for nix to declaratively manage software packaged for other distributions 
@@ -72,6 +77,23 @@
 * uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
 
 <br>
+<br>
+
+# Math Projects
+
+## Formalizing Codensity Transformations in Category Theory
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+<a href="https://github.com/casey/just"><img src="https://dev.solita.fi/img/2024-09-05-the-x-files/just-icon.png" width="30" height="30" alt="just"></a>
+<a href="https://typst.app/"><img src="https://avatars.githubusercontent.com/u/67595261?v=4" width="30" height="30" alt="typst"></a>
+<a href="https://www.latex-project.org/"><img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" width="30" height="30" alt="latex"></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
+<a href="https://www.haskell.org/"><img src="https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png" width="30" height="30" alt="haskell"></a>
+* source hosted at <a href="https://github.com/givikuna/codensity-transformations-with-yoneda-lemma">https://github.com/givikuna/codensity-transformations-with-yoneda-lemma</a>
+* work-in-progress paper writing a proof for how codensity transformations in haskell do not change the logic of the code despite its quadratic to linear time optimizations
+* currently being written using typst (formerly in latex)
+* configured enivornment and automation done via nix flakes, just scripts, and vscode
+* plans for creating a lean4 proof for this (though this will take time)
+
 <br>
 
 ### Contact
