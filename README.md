@@ -18,8 +18,7 @@
 #### majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
 #### minor in [physics](https://physics.rutgers.edu/)
 
-<br><br>
-
+<!--
 ## Tech Stack
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://archlinux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/3840px-Arch_Linux_%22Crystal%22_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="arch"></a>
@@ -45,59 +44,31 @@
 <a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
 <a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
 <a href="https://www.digitalocean.com/"><img src="https://companieslogo.com/img/orig/DOCN-6eec72eb.png?t=1720244491" width="30" height="30" alt="digital-ocean"></a>
+<a href="https://yggdrasil-network.github.io/"><img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30" alt="yggdrasil"></a>
+-->
 
 <!--
 <a href=""><img src="" width="30" height="30" alt=""></a>
 -->
 
-<br><br><br>
+<br>
 
-## Projects
+# Projects
 
-### nixfiles
+## nixfiles
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://hypr.land/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hyprland.webp" width="30" height="30" alt="hyprland"></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="bash"></a>
 <a href="https://fishshell.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Fish_icon.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="fish"></a>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
-#### hosted at [https://github.com/givikuna/nixfiles](https://github.com/givikuna/nixfiles)
-#### personal nix hyprland configuration with many optimizations
-
-<br>
-
-### Warframe Card Game
-<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="react"></a>
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
-<a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
-#### hosted at [https://github.com/givikuna/WarframeCardGame](https://github.com/givikuna/WarframeCardGame)
-#### multiplayer card game based on [warframe](https://www.warframe.com/en/game/about)
-
-<br>
-
-### Encodex
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
-<a href="https://livescript.net/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuYofMyCpa_yi1W1_XKTgk5KXywbVvg9EzQ&s" width="30" height="30" alt="livescript"></a>
-<a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
-#### hosted at [https://github.com/givikuna/encodex](https://github.com/givikuna/encodex)
-#### npm library for simulating physics, computers, and game systems
-#### also provides various utilities for lists, strings, numbers, functions, types, data structures, monads, algorithms and more
-
-
-<br>
-
-### rgtube
-<a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
-<a href="https://rust-lang.org/"><img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="30" height="30" alt="rust"></a>
-<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="linux"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
-<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="react"></a>
-#### hosted at [https://github.com/rg134/rgtube](https://github.com/rg134/rgtube)
-#### youtube client designed to allow for multiple different viewing profiles ad & tracking free
-
+<a href="https://yggdrasil-network.github.io/"><img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30" alt="yggdrasil"></a>
+* source code hosted at <a href="[https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
+* multi-host nix configuration
+* creates a fully reproducible fleet of personal computers and servers running all kinds of software
+* uses a custom distrobox module and scripts to allow for nix to declaratively manage software packaged for other distributions 
+* every host shares the same fish shell and rust-based modern cli tools for convenience
+* uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
 
 <br>
 <br>
