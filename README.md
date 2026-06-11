@@ -52,6 +52,9 @@
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 <a href="https://www.haskell.org/"><img src="https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png" width="30" height="30" alt="haskell"></a>
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30" alt="html"></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" alt="css"></a>
+<a href="https://lean-lang.org/"><img src="https://avatars.githubusercontent.com/u/7233018?v=4" width="30" height="30" alt="lean4"></a>
 -->
 
 <!--
@@ -76,7 +79,6 @@
 * uses a custom distrobox module and scripts to allow for nix to declaratively manage software packaged for other distributions 
 * every host shares the same fish shell and rust-based modern cli tools for convenience
 * uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
-* documentation coming soon
 
 ## struktured
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
@@ -87,6 +89,17 @@
 * a library (work-in-progress) with various complex (and customizable) data structures
 * designed with extensibility in mind providing abstract classes, interfaces, bases, headers, and mixins (and lots of utilities to create custom mixins)
 * written primarly in typescript for npm
+
+## gruvboxed firefox landing page (toy)
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30" alt="html"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" alt="css"></a>
+* source code hosted on github at <a href="https://github.com/givikuna/givikuna-firefox-landing-page.github.io">https://github.com/givikuna/givikuna-firefox-landing-page.github.io</a>
+* website hosted at <a href="https://givikuna.github.io/givikuna-firefox-landing-page.github.io/">https://givikuna.github.io/givikuna-firefox-landing-page.github.io/</a>
+* small gruvbox-themed terminal-like personal bookmarks page I pin as my firefox tab (and is the default new tab)
+* contains a couple of categories for bookmarks, multiple search engines as options, and a very sleek looking ui
+* a tool for declaratively creating this type of website for nixos coming soon
+
 
 <br>
 <br>
@@ -100,6 +113,7 @@
 <a href="https://www.latex-project.org/"><img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" width="30" height="30" alt="latex"></a>
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 <a href="https://www.haskell.org/"><img src="https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png" width="30" height="30" alt="haskell"></a>
+<a href="https://lean-lang.org/"><img src="https://avatars.githubusercontent.com/u/7233018?v=4" width="30" height="30" alt="lean4"></a>
 * source hosted at <a href="https://github.com/givikuna/codensity-transformations-with-yoneda-lemma">https://github.com/givikuna/codensity-transformations-with-yoneda-lemma</a>
 * work-in-progress paper writing a proof for how codensity transformations in haskell do not change the logic of the code despite its quadratic to linear time optimizations
 * currently being written using typst (formerly in latex)
