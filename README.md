@@ -2,7 +2,6 @@
 
 ## it's givi
 <a href="https://github.com/givikuna"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25" height="25" alt="github-logo"></a>&nbsp;
-<a href="https://gitlab.com/givikuna"><img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="25" height="25" alt="gitlab-logo"></a>&nbsp;
 <a href="https://codeberg.org/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Codeberg_Logo.svg/1280px-Codeberg_Logo.svg.png" width="25" height="25" alt="codeberg-logo"></a>&nbsp;
 <a href="https://www.linkedin.com/in/givi-tsvariani-072355169/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="25" height="25" alt="linkedin-logo"></a>&nbsp;
 <a href="https://stackoverflow.com/users/13944164/giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="stack-overflow-logo"></a>&nbsp;
@@ -13,6 +12,8 @@
 <a href="https://mastodon.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1280px-Mastodon_Logotype_%28Simple%29.svg.png" width="25" height="25" alt="mastodon-logo"></a>&nbsp;
 <a href="https://pixelfed.social/@giviko"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pixelfed_logo_multicolor_%28September_2018%29.svg/1280px-Pixelfed_logo_multicolor_%28September_2018%29.svg.png" width="25" height="25" alt="pixelfed-logo"></a>&nbsp;
 <a href="https://odysee.com/@giviko:c4abf0d520"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Odysee_Logo.svg/1280px-Odysee_Logo.svg.png" width="25" height="25" alt="odysee-logo"></a>
+
+<!--<a href="https://gitlab.com/givikuna"><img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="25" height="25" alt="gitlab-logo"></a>&nbsp;-->
 
 ### student at [rutgers](https://www.rutgers.edu/)
 #### majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
