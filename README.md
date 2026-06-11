@@ -82,12 +82,11 @@
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
-<a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
 * source code hosted on codeberg at <a href="https://codeberg.org/giviko/struktured">https://codeberg.org/giviko/struktured</a>
 * npm package on npmjs.com at <a href="https://www.npmjs.com/package/struktured">https://www.npmjs.com/package/struktured</a>
 * a library (work-in-progress) with various complex (and customizable) data structures
-* and frameworks (with interfaces, parent classes, and so on) for implementing your own complex data structures
-* written primarly in typescript with future support for purescript coming
+* designed with extensibility in mind providing abstract classes, interfaces, bases, headers, and mixins (and lots of utilities to create custom mixins)
+* written primarly in typescript for npm
 
 <br>
 <br>
