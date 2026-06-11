@@ -76,6 +76,7 @@
 * uses a custom distrobox module and scripts to allow for nix to declaratively manage software packaged for other distributions 
 * every host shares the same fish shell and rust-based modern cli tools for convenience
 * uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
+* documentation coming soon
 
 ## struktured
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
