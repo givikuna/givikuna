@@ -51,6 +51,7 @@
 <a href="https://www.latex-project.org/"><img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" width="30" height="30" alt="latex"></a>
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 <a href="https://www.haskell.org/"><img src="https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png" width="30" height="30" alt="haskell"></a>
+<a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
 -->
 
 <!--
@@ -69,12 +70,23 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
 <a href="https://yggdrasil-network.github.io/"><img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30" alt="yggdrasil"></a>
-* source code hosted at <a href="https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
+* source code hosted on github at <a href="https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
 * multi-host nix configuration
 * creates a fully reproducible fleet of personal computers and servers running all kinds of software
 * uses a custom distrobox module and scripts to allow for nix to declaratively manage software packaged for other distributions 
 * every host shares the same fish shell and rust-based modern cli tools for convenience
 * uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
+
+## struktured
+<a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
+<a href="https://www.purescript.org/"><img src="https://raw.githubusercontent.com/purescript/logo/master/youtube/channel_icon-800.png" width="30" height="30" alt="purescript"></a>
+* source code hosted on codeberg at <a href="https://codeberg.org/giviko/struktured">https://codeberg.org/giviko/struktured</a>
+* npm package on npmjs.com at <a href="https://www.npmjs.com/package/struktured">https://www.npmjs.com/package/struktured</a>
+* a library (work-in-progress) with various complex (and customizable) data structures
+* and frameworks (with interfaces, parent classes, and so on) for implementing your own complex data structures
+* written primarly in typescript with future support for purescript coming
 
 <br>
 <br>
