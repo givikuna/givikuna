@@ -36,7 +36,7 @@
 <a href="https://jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="30" height="30" alt="jquery"></a>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.haskell.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/3840px-Haskell-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="haskell"></a>
-<a href="https://rust-lang.org/"><img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="30" height="30" alt="rust"></a>
+<a href="https://rust-lang.org/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="30" height="30" alt="rust"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
 <a href="https://jestjs.io/"><img src="https://avatars.githubusercontent.com/u/103283236?v=4" width="30" height="30" alt="jest"></a>
@@ -91,7 +91,7 @@
 * written primarly in typescript for npm
 
 ## gitboy
-<a href="https://rust-lang.org/"><img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="30" height="30" alt="rust"></a>
+<a href="https://rust-lang.org/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="30" height="30" alt="rust"></a>
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/gitboy">https://github.com/givikuna/gitboy</a>
