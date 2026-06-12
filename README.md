@@ -90,6 +90,15 @@
 * designed with extensibility in mind providing abstract classes, interfaces, bases, headers, and mixins (and lots of utilities to create custom mixins)
 * written primarly in typescript for npm
 
+## gitboy
+<a href="https://rust-lang.org/"><img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="30" height="30" alt="rust"></a>
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
+* source code hosted on github at <a href="https://github.com/givikuna/gitboy">https://github.com/givikuna/gitboy</a>
+* a small tool written in rust with the singular purpose of managing locations of git repositories in your system declaratively
+* specifically written for nix flakes as of now, will be getting more features over time
+* this is something created for my personal use, but do feel free to use it (and create issues as needed) (or even contribute)
+
 ## gruvboxed firefox landing page (toy)
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30" alt="html"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
