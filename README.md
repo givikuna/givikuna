@@ -99,17 +99,6 @@
 * specifically written for nix flakes as of now, will be getting more features over time
 * this is something created for my personal use, but do feel free to use it (and create issues as needed) (or even contribute)
 
-## gruvboxed firefox landing page (toy)
-<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30" alt="html"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" alt="css"></a>
-* source code hosted on github at <a href="https://github.com/givikuna/givikuna-firefox-landing-page.github.io">https://github.com/givikuna/givikuna-firefox-landing-page.github.io</a>
-* website hosted at <a href="https://givikuna.github.io/givikuna-firefox-landing-page.github.io/">https://givikuna.github.io/givikuna-firefox-landing-page.github.io/</a>
-* small gruvbox-themed terminal-like personal bookmarks page I pin as my firefox tab (and is the default new tab)
-* contains a couple of categories for bookmarks, multiple search engines as options, and a very sleek looking ui
-* a tool for declaratively creating this type of website for nixos coming soon
-
-
 <br>
 <br>
 
