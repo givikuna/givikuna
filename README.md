@@ -80,6 +80,16 @@
 * every host shares the same fish shell and rust-based modern cli tools for convenience
 * uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
 
+## nixboxd
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
+* source code hosted on github at <a href="https://github.com/givikuna/nixboxd">https://github.com/givikuna/nixboxd</a>
+* a declarative way to install packages from any linux distribution and manage them via the nix package manager
+* uses distrobox to manage and isolate the packages
+* uses python and shell scripts for garbage management and updating packages
+* currently supports: arch, ubuntu, kali, parrot, and fedora
+* currently only works on systemd, this will be expanded upon soon
+
 ## struktured
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
