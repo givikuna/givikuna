@@ -20,6 +20,10 @@
 #### minor in [physics](https://physics.rutgers.edu/)
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=givikuna)
+-->
+
+<!--
 ## Tech Stack
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://archlinux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/3840px-Arch_Linux_%22Crystal%22_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="arch"></a>
@@ -126,4 +130,11 @@
 
 
 <br>
-<br.
+<br>
+
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=pie&hide=css,less,html,markdown&langs_count=10)
+
+<br>
