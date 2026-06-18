@@ -59,6 +59,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30" alt="html"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" alt="css"></a>
 <a href="https://lean-lang.org/"><img src="https://avatars.githubusercontent.com/u/7233018?v=4" width="30" height="30" alt="lean4"></a>
+<a href="https://astro.build/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627039414651/tq8WqleUZ.jpeg" width="30" height="30" alt="astrojs"></a>
 -->
 
 <!--
@@ -102,6 +103,17 @@
 * a small tool written in rust with the singular purpose of managing locations of git repositories in your system declaratively
 * specifically written for nix flakes as of now, will be getting more features over time
 * this is something created for my personal use, but do feel free to use it (and create issues as needed) (or even contribute)
+
+## keti portfolio website
+<a href="https://astro.build/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627039414651/tq8WqleUZ.jpeg" width="30" height="30" alt="astrojs"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
+<a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
+<a href="https://www.hetzner.com/"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" width="30" height="30" alt="hetzner"></a>
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+* source code hosted on github at <a href="https://github.com/givikuna/keto-portfolio">https://github.com/givikuna/keto-portfolio</a>
+* photography portfolio website created in the most unopinionated way with astro, expressjs, and typescript
+* hosted on the hetzner platform
+
 
 <br>
 <br>
