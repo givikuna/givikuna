@@ -110,6 +110,7 @@
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
 <a href="https://www.hetzner.com/"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" width="30" height="30" alt="hetzner"></a>
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/keto-portfolio">https://github.com/givikuna/keto-portfolio</a>
 * photography portfolio website created in the most unopinionated way with astro, expressjs, and typescript
 * hosted on the hetzner platform
