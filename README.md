@@ -81,9 +81,8 @@
 * source code hosted on github at <a href="https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
 * multi-host nix configuration
 * creates a fully reproducible fleet of personal computers and servers running all kinds of software
-* uses a custom distrobox module and scripts to allow for nix to declaratively manage software packaged for other distributions 
-* every host shares the same fish shell and rust-based modern cli tools for convenience
-* uses a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
+* every host shares the same fish shell and rust-based modern cli tools for convenience but has different fronts
+* will soon use a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
 
 ## struktured
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
@@ -101,8 +100,8 @@
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/gitboy">https://github.com/givikuna/gitboy</a>
 * a small tool written in rust with the singular purpose of managing locations of git repositories in your system declaratively
-* specifically written for nix flakes as of now, will be getting more features over time
-* this is something created for my personal use, but do feel free to use it (and create issues as needed) (or even contribute)
+* specifically packages for nix flakes as of now
+* will be getting more features over time as the needs increase
 
 ## keti portfolio website
 <a href="https://astro.build/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627039414651/tq8WqleUZ.jpeg" width="30" height="30" alt="astrojs"></a>
@@ -112,9 +111,8 @@
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/keto-portfolio">https://github.com/givikuna/keto-portfolio</a>
-* photography portfolio website created in the most unopinionated way with astro, expressjs, and typescript
+* photography portfolio website created in astro, svelte, express, and typescript with python scripts
 * hosted on the hetzner platform
-
 
 <br>
 <br>
