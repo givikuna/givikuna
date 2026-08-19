@@ -60,6 +60,10 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" alt="css"></a>
 <a href="https://lean-lang.org/"><img src="https://avatars.githubusercontent.com/u/7233018?v=4" width="30" height="30" alt="lean4"></a>
 <a href="https://astro.build/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627039414651/tq8WqleUZ.jpeg" width="30" height="30" alt="astrojs"></a>
+<a href="https://racket-lang.org/"><img src="https://racket-lang.org/img/racket-logo.svg" width="30" height="30" alt="racket"></a>
+<a href="https://www.perl.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="perl"></a>
+<a href="https://github.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="30" height="30" alt="github"></a>
+<a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.clever-cloud.com/uploads/2025/08/icons8-terraform.svg" width="30" height="30"></a>
 -->
 
 <!--
@@ -70,6 +74,15 @@
 
 # Programming Projects
 
+## loid language
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+<a href="https://rust-lang.org/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="30" height="30" alt="rust"></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
+* source code hosted on github at <a href="https://github.com/Loid-Project/loid/">https://github.com/Loid-Project/loid/</a>
+* multi-paradigm transpiled programming language with first-class types, functions, and classes
+* tightly integrates classes into the type system, allows for constrained types, runtime type checks, and pure functional programming
+* features a rich error management system with monadic data structures
+
 ## nixfiles
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://hypr.land/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hyprland.webp" width="30" height="30" alt="hyprland"></a>
@@ -78,11 +91,16 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="python"></a>
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30" height="30" alt="lua"></a>
 <a href="https://yggdrasil-network.github.io/"><img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30" alt="yggdrasil"></a>
+<a href="https://www.perl.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="perl"></a>
+<a href="https://racket-lang.org/"><img src="https://racket-lang.org/img/racket-logo.svg" width="30" height="30" alt="racket"></a>
+<a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.clever-cloud.com/uploads/2025/08/icons8-terraform.svg" width="30" height="30"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
-* multi-host nix configuration
-* creates a fully reproducible fleet of personal computers and servers running all kinds of software
-* every host shares the same fish shell and rust-based modern cli tools for convenience but has different fronts
-* will soon use a declarative private network for overlaying yggdrasil making a distributed homelab of sorts
+* multi-host nixos configuration with flakes & home manager
+* manages secrets, private and public servers, and various personal computers
+* unit tests many parts of the operating systems through custom scripts
+* many smaller custom scripts written in racket, perl, and python.
+* uses various self-made flakes such as <a href="https://github.com/givikuna/gitboy>">gitboy</a> for declarative git repository management and <a href="https://github.com/givikuna/nixtants">nixtants</a> for constants management
+* currently in the process of using terraform to set up the cloud environment declaratively.
 
 ## struktured
 <a href="https://www.npmjs.com/"><img src="https://i.pinimg.com/736x/09/38/9b/09389b5e513388b69517f6505635eff2.jpg" width="30" height="30" alt="npm"></a>
@@ -94,14 +112,13 @@
 * designed with extensibility in mind providing abstract classes, interfaces, bases, headers, and mixins (and lots of utilities to create custom mixins)
 * written primarly in typescript for npm
 
-## gitboy
-<a href="https://rust-lang.org/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="30" height="30" alt="rust"></a>
+## github-api-cli
+<a href="https://www.haskell.org/"><img src="https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png" width="30" height="30" alt="haskell"></a>
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
-<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
-* source code hosted on github at <a href="https://github.com/givikuna/gitboy">https://github.com/givikuna/gitboy</a>
-* a small tool written in rust with the singular purpose of managing locations of git repositories in your system declaratively
-* specifically packages for nix flakes as of now
-* will be getting more features over time as the needs increase
+<a href="https://github.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="30" height="30" alt="github"></a>
+* source code hosted on github at <a href="https://github.com/givikuna/gh-api-cli">https://github.com/givikuna/gh-api-cli</a>
+* github api wrapper as a cli tool written in Haskell
+* more information is in the README.md
 
 ## keti portfolio website
 <a href="https://astro.build/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627039414651/tq8WqleUZ.jpeg" width="30" height="30" alt="astrojs"></a>
