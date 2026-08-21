@@ -78,6 +78,8 @@
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
 <a href="https://rust-lang.org/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="30" height="30" alt="rust"></a>
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
+<a href="https://github.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="30" height="30" alt="github"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" width="30" height="30" alt="javascript"></a>
 * source code hosted on github at <a href="https://github.com/Loid-Project/loid/">https://github.com/Loid-Project/loid/</a>
 * multi-paradigm transpiled programming language with first-class types, functions, and classes
 * tightly integrates classes into the type system, allows for constrained types, runtime type checks, and pure functional programming
