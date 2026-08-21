@@ -64,6 +64,7 @@
 <a href="https://www.perl.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="perl"></a>
 <a href="https://github.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="30" height="30" alt="github"></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.clever-cloud.com/uploads/2025/08/icons8-terraform.svg" width="30" height="30"></a>
+<a href"https://webpack.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_fXm3wVw-nNZu7BFAHon3g4ueICp2pAtgMOeTo07ZQ&s=10" width="30" height="30"></a>
 -->
 
 <!--
@@ -134,6 +135,12 @@
 * hosted on the hetzner platform
 
 ## Warframe Card Game
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
+<a href"https://webpack.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_fXm3wVw-nNZu7BFAHon3g4ueICp2pAtgMOeTo07ZQ&s=10" width="30" height="30"></a>
+<a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
+<a href="https://www.hetzner.com/"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" width="30" height="30" alt="hetzner"></a>
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 * source code hosted on github at: <a href="https://github.com/givikuna/WarframeCardGame">https://github.com/givikuna/WarframeCardGame</a> 
 * self-hostable multi-player turn-based card game backend (with a frontend in development) built in typescript
 * doesn't use a game engine and relies on a custom event management system
