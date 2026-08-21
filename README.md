@@ -133,6 +133,11 @@
 * photography portfolio website created in astro, svelte, express, and typescript with python scripts
 * hosted on the hetzner platform
 
+## Warframe Card Game
+* source code hosted on github at: <a href="https://github.com/givikuna/WarframeCardGame">https://github.com/givikuna/WarframeCardGame</a> 
+* self-hostable multi-player turn-based card game backend (with a frontend in development) built in typescript
+* doesn't use a game engine and relies on a custom event management system
+
 <br>
 <br>
 
@@ -163,8 +168,10 @@
 <br>
 
 
+<!--
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givikuna&layout=pie&hide=css,less,html,markdown&langs_count=10)
 
 <br>
+-->
