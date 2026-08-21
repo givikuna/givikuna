@@ -125,6 +125,7 @@
 
 ## keti portfolio website
 <a href="https://astro.build/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627039414651/tq8WqleUZ.jpeg" width="30" height="30" alt="astrojs"></a>
+<a href="https://svelte.dev/"><omg src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="svelte"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
 <a href="https://www.hetzner.com/"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" width="30" height="30" alt="hetzner"></a>
@@ -136,7 +137,8 @@
 
 ## Warframe Card Game
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
-<a href"https://webpack.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_fXm3wVw-nNZu7BFAHon3g4ueICp2pAtgMOeTo07ZQ&s=10" width="30" height="30"></a>
+<a href"https://webpack.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_fXm3wVw-nNZu7BFAHon3g4ueICp2pAtgMOeTo07ZQ&s=10" width="30" height="30" alt="we pack"></a>
+<a href="https://svelte.dev/"><omg src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="svelte"></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/office80/1200/express-js.jpg" width="30" height="30" alt="express"></a>
 <a href="https://www.hetzner.com/"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" width="30" height="30" alt="hetzner"></a>
 <a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
