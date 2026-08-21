@@ -133,9 +133,10 @@
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="30" height="30" alt="git"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/keto-portfolio">https://github.com/givikuna/keto-portfolio</a>
 * photography portfolio website created in astro, svelte, express, and typescript with python scripts
+* utilizes a custom made cms system in svelte & expressjs with a simple drag-and-drop style gui secured with a password
 * hosted on the hetzner platform
 
-## Warframe Card Game
+## warframe card game
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
 <a href="https://webpack.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_fXm3wVw-nNZu7BFAHon3g4ueICp2pAtgMOeTo07ZQ&s=10" width="30" height="30" alt="we pack"></a>
 <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="svelte"></a>
