@@ -148,6 +148,18 @@
 * self-hostable multi-player turn-based card game backend (with a frontend in development) built in typescript
 * doesn't use a game engine and relies on a custom event management system
 
+## arkonavt
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
+<a href="https://ramdajs.com/"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/943/square_480/ramda.png" width="30" height="30" alt="ramda"></a>
+<a href="https://www.electronjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/960px-Electron_Software_Framework_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="electron"></a>
+<a href="https://react.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0uidraBFvP4Rt0atea_pFlR8dKRzwFV04lpz6OBxlw&s=10" width="30" height="30" alt="reactjs"></a>
+<a href="https://vite.dev/"><img src="https://v2.vitejs.dev/logo.svg" width="30" height="30" alt="vite"></a>
+<a href="https://gcanti.github.io/fp-ts/"><img src="https://gcanti.github.io/fp-ts/fp-ts-logo.png" width="30" height="30" alt="fp-to"></a>
+- local-first music player platform
+- relies on yt-dlp for downloading audio from YouTube
+- uses monadic and functional programming from `fp-ts`, `underscore`, and `ramda`
+- built with ReactJS and ElectronJS
+
 <br>
 <br>
 
