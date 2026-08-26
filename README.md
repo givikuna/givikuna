@@ -155,6 +155,7 @@
 <a href="https://react.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0uidraBFvP4Rt0atea_pFlR8dKRzwFV04lpz6OBxlw&s=10" width="30" height="30" alt="reactjs"></a>
 <a href="https://vite.dev/"><img src="https://v2.vitejs.dev/logo.svg" width="30" height="30" alt="vite"></a>
 <a href="https://gcanti.github.io/fp-ts/"><img src="https://gcanti.github.io/fp-ts/fp-ts-logo.png" width="30" height="30" alt="fp-to"></a>
+<a href="https://underscorejs.org/"><img src="https://pbs.twimg.com/profile_images/1291726267327426561/2Wqch1MG_400x400.png" width="30" height="30" alt="underscore-js"></a>
 - local-first music player platform
 - relies on yt-dlp for downloading audio from YouTube
 - uses monadic and functional programming from `fp-ts`, `underscore`, and `ramda`
