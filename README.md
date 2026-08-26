@@ -156,10 +156,28 @@
 <a href="https://vite.dev/"><img src="https://v2.vitejs.dev/logo.svg" width="30" height="30" alt="vite"></a>
 <a href="https://gcanti.github.io/fp-ts/"><img src="https://gcanti.github.io/fp-ts/fp-ts-logo.png" width="30" height="30" alt="fp-to"></a>
 <a href="https://underscorejs.org/"><img src="https://pbs.twimg.com/profile_images/1291726267327426561/2Wqch1MG_400x400.png" width="30" height="30" alt="underscore-js"></a>
+- source code hosted on github at <a href="https://github.com/givikuna/arkonavt">https://github.com/givikuna/arkonavt</a>
 - local-first music player platform
 - relies on yt-dlp for downloading audio from YouTube
 - uses monadic and functional programming from `fp-ts`, `underscore`, and `ramda`
 - built with ReactJS and ElectronJS
+
+## mwaune
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="typescript"></a>
+<a href="https://rust-lang.org/"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="30" height="30" alt="rust"></a>
+<a href="https://v2.tauri.app/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tauri-icon.png" width="30" height="30" alt="tauri"></a>
+<a href="https://underscorejs.org/"><img src="https://pbs.twimg.com/profile_images/1291726267327426561/2Wqch1MG_400x400.png" width="30" height="30" alt="underscore-js"></a>
+<a href="https://vite.dev/"><img src="https://v2.vitejs.dev/logo.svg" width="30" height="30" alt="vite"></a>
+<a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="30" height="30" alt="svelte"></a>
+<a href="https://ramdajs.com/"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/943/square_480/ramda.png" width="30" height="30" alt="ramda"></a>
+<a href="https://gcanti.github.io/fp-ts/"><img src="https://gcanti.github.io/fp-ts/fp-ts-logo.png" width="30" height="30" alt="fp-to"></a>
+<a href="https://nixos.org/"><img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" width="30" height="30" alt="nix"></a>
+- source code hosted on github at <a href="https://github.com/givikuna/mwaune">https://github.com/givikuna/mwaune</a>
+- local-first book management application
+- built with tauri and svelte
+- allows for note taking, reading books, and has a declarative configuration system
+- very easily portable (only requires backing up a singular folder)
+- simple keyboard-driven ui
 
 <br>
 <br>
