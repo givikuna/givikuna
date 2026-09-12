@@ -65,6 +65,7 @@
 <a href="https://github.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="30" height="30" alt="github"></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.clever-cloud.com/uploads/2025/08/icons8-terraform.svg" width="30" height="30"></a>
 <a href"https://webpack.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_fXm3wVw-nNZu7BFAHon3g4ueICp2pAtgMOeTo07ZQ&s=10" width="30" height="30"></a>
+<a href="https://elv.sh/"><img src="https://avatars.githubusercontent.com/u/6590824?v=4" width="30" height="30" alt="elvish"></a>
 -->
 
 <!--
@@ -97,6 +98,7 @@
 <a href="https://www.perl.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="30" height="30" alt="perl"></a>
 <a href="https://racket-lang.org/"><img src="https://racket-lang.org/img/racket-logo.svg" width="30" height="30" alt="racket"></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.clever-cloud.com/uploads/2025/08/icons8-terraform.svg" width="30" height="30"></a>
+<a href="https://elv.sh/"><img src="https://avatars.githubusercontent.com/u/6590824?v=4" width="30" height="30" alt="elvish"></a>
 * source code hosted on github at <a href="https://github.com/givikuna/nixfiles">https://github.com/givikuna/nixfiles</a>
 * multi-host nixos configuration with flakes & home manager
 * manages secrets, private and public servers, and various personal computers
