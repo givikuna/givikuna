@@ -15,11 +15,7 @@
 
 <!--<a href="https://gitlab.com/givikuna"><img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="25" height="25" alt="gitlab-logo"></a>&nbsp;-->
 
-### student at [rutgers](https://www.rutgers.edu/)
-#### majors in [math](https://math.rutgers.edu/) and [cs](https://www.cs.rutgers.edu/)
-#### minor in [physics](https://physics.rutgers.edu/)
-
-#### see about me and my work at: [https://givikuna.github.io/](https://givikuna.github.io/)
+## see about me and my work at: [https://givikuna.github.io/](https://givikuna.github.io/)
 
 <!--
 
