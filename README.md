@@ -18,6 +18,21 @@
 - see about me and my work at: [https://givikuna.github.io/](https://givikuna.github.io/)
 - founder at [Amphiseum](http://amphiseum.dev/)
 
+### Projects
+- [nixfiles](https://github.com/givikuna/nixp): personal multi-host nix config repo managing home servers, personal computers, and cloud servers.
+- [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WIP)
+- [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WIP)
+- [acrithis](https://github.com/givikuna/project_acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing proofs in mathematics, written in gleam (WIP)
+- [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete)
+- [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
+- [arkonavt](https://github.com/givikuna/arkonavt): terminal-based batteries included IDE in typescript (WIP)
+- [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
+- [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WIP)
+- [wyrten](https://github.com/givikuna/wyrten): nixos local-ai orchestration tool (WIP)
+- [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
+- [mwaune](https://github.com/givikuna/mwaune): book-reading and management software in tauri and svelte (WIP)
+- 
+
 <!--
 
 ## Formalizing Codensity Transformations in Category Theory
