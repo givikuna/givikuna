@@ -23,14 +23,16 @@
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WIP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WIP)
 - [acrithis](https://github.com/givikuna/project_acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing proofs in mathematics, written in gleam (WIP)
-- [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete)
+- [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
 - [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
 - [arkonavt](https://github.com/givikuna/arkonavt): terminal-based batteries included IDE in typescript (WIP)
 - [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
 - [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WIP)
 - [wyrten](https://github.com/givikuna/wyrten): nixos local-ai orchestration tool (WIP)
+- [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (IP)
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
 - [mwaune](https://github.com/givikuna/mwaune): book-reading and management software in tauri and svelte (WIP)
+- [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
 
 <!--
 
