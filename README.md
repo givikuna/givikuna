@@ -31,7 +31,6 @@
 - [wyrten](https://github.com/givikuna/wyrten): nixos local-ai orchestration tool (WIP)
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
 - [mwaune](https://github.com/givikuna/mwaune): book-reading and management software in tauri and svelte (WIP)
-- 
 
 <!--
 
