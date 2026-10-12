@@ -22,7 +22,7 @@
 - [nixfiles](https://github.com/givikuna/nixp): personal multi-host nix config repo managing home servers, personal computers, and cloud servers.
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WIP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WIP)
-- [acrithis](https://github.com/givikuna/project_acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing proofs in mathematics, written in gleam (WIP)
+- [acrithis](https://github.com/givikuna/acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing proofs in mathematics, written in rust (WIP)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
 - [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
 - [arkonavt](https://github.com/givikuna/arkonavt): terminal-based batteries included IDE in typescript (WIP)
