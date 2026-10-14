@@ -30,7 +30,7 @@
 - [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
 - [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WIP)
 - [wyrten](https://github.com/givikuna/wyrten): nixos local-ai orchestration tool (WIP)
-- [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (IP)
+- [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (Mostly Complete, WIP)
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
 - [mwaune](https://github.com/givikuna/mwaune): book-reading and management software in tauri and svelte (WIP)
 - [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
