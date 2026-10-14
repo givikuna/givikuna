@@ -19,7 +19,7 @@
 - founder at [Amphiseum](http://amphiseum.dev/)
 
 ### Projects
-- [nixfiles](https://github.com/givikuna/nixp): personal multi-host nix config repo managing home servers, personal computers, and cloud servers.
+- [nixfiles](https://github.com/givikuna/nixfiles): personal multi-host nix config repo managing home servers, personal computers, and cloud servers.
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WIP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WIP)
 - [ysyldur](https://github.com/givikuna/ysyldur): a nix flake for managing linux kernel parameters, sysctls, kernel variants and versions for NixOS systems (Complete)
