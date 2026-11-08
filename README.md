@@ -15,6 +15,7 @@
 
 <!--<a href="https://gitlab.com/givikuna"><img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="25" height="25" alt="gitlab-logo"></a>&nbsp;-->
 
+- rutgers 2028 (math&cs, physics minor)
 - see about me and my work at: [https://givikuna.github.io/](https://givikuna.github.io/)
 - founder at [Amphiseum](http://amphiseum.dev/)
 
