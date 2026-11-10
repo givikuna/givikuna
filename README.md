@@ -28,14 +28,19 @@
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
 - [gvpkgs](https://github.com/givikuna/gvpkgs): nix package repository for testing future packages for nixpkgs and version updates (Complete, Active Dev)
 - [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
-- [arkonavt](https://github.com/givikuna/arkonavt): terminal-based batteries included IDE in typescript (WIP)
 - [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
 - [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WIP)
-- [wyrten](https://github.com/givikuna/wyrten): nixos local-ai orchestration tool (WIP)
 - [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (Mostly Complete, WIP)
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
-- [mwaune](https://github.com/givikuna/mwaune): book-reading and management software in tauri and svelte (WIP)
 - [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
+
+<!--
+
+- [mwaune](https://github.com/givikuna/mwaune): book-reading and management software in tauri and svelte (WIP)
+- [wyrten](https://github.com/givikuna/wyrten): nixos local-ai orchestration tool (WIP)
+- [arkonavt](https://github.com/givikuna/arkonavt): terminal-based batteries included IDE in typescript (WIP)
+
+-->
 
 <!--
 
