@@ -24,7 +24,6 @@
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WIP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WIP)
 - [ysyldur](https://github.com/givikuna/ysyldur): a nix flake for managing linux kernel parameters, sysctls, kernel variants and versions for NixOS systems (Complete)
-- [acrithis](https://github.com/givikuna/acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing math proofs, written in rust (WIP)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
 - [gvpkgs](https://github.com/givikuna/gvpkgs): nix package repository for testing future packages for nixpkgs and version updates (Complete, Active Dev)
 - [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
@@ -36,6 +35,8 @@
 - [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
 
+### School
+- [acrithis](https://github.com/givikuna/acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing math proofs, written in rust (WIP)
 
 <!--
 
