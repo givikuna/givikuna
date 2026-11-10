@@ -23,17 +23,19 @@
 - [nixfiles](https://github.com/givikuna/nixfiles): personal multi-host nix config repo managing home servers, personal computers, and cloud servers.
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WIP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WIP)
-- [ysyldur](https://github.com/givikuna/ysyldur): a nix flake for managing linux kernel parameters, sysctls, kernel variants and versions for NixOS systems (Complete)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
 - [gvpkgs](https://github.com/givikuna/gvpkgs): nix package repository for testing future packages for nixpkgs and version updates (Complete, Active Dev)
-- [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
-- [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WIP)
 - [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (Mostly Complete, WIP)
 - [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
 
 ### Flakes
+- [ysyldur](https://github.com/givikuna/ysyldur): a nix flake for managing linux kernel parameters, sysctls, kernel variants and versions for NixOS systems (Complete)
 - [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
+
+### Web
+- [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WIP)
+- [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
 
 ### School
 - [acrithis](https://github.com/givikuna/acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing math proofs, written in rust (WIP)
