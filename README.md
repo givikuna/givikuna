@@ -26,6 +26,7 @@
 - [ysyldur](https://github.com/givikuna/ysyldur): a nix flake for managing linux kernel parameters, sysctls, kernel variants and versions for NixOS systems (Complete)
 - [acrithis](https://github.com/givikuna/acrithis): nix-inspired immutable database for lean4 proofs as a knowledge base for LLMs doing math proofs, written in rust (WIP)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
+- [gvpkgs](https://github.com/givikuna/gvpkgs): nix package repository for testing future packages for nixpkgs and version updates (Complete, Active Dev)
 - [mkScript](https://github.com/givikuna/nix-mkScript): nix script-creation flake for flake environments (Complete)
 - [arkonavt](https://github.com/givikuna/arkonavt): terminal-based batteries included IDE in typescript (WIP)
 - [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
