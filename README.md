@@ -24,7 +24,7 @@
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WiP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WiP)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
-- [ysarix](https://github.com/givikuna/ysarix): git repository mirror backup service for nixos (WiP)
+- [yqaris](https://github.com/givikuna/yqaris): git repository mirror backup service for nixos (WiP)
 - [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (Mostly Complete, WiP)
 - [aigest](https://github.com/givikuna/aigest): git repo ingestion tool written in groovy (Complete, Active Dev)
 - [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
