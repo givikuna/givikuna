@@ -24,8 +24,9 @@
 - [loid](https://github.com/Loid-Project/loid): multi-paradigm programming language implementing a dependent type system with oop principles, written in rust (WiP)
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WiP)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
+- [ysarix](https://github.com/givikuna/ysarix): git repository mirror backup service for nixos (WiP)
 - [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (Mostly Complete, WiP)
-- [aigest](https://github.com/givikuna/givikuna/edit/main/README.md): git repo ingestion tool written in Groovy (Complete, Active Dev)
+- [aigest](https://github.com/givikuna/aigest): git repo ingestion tool written in groovy (Complete, Active Dev)
 - [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
 
 ### Flakes
@@ -35,7 +36,7 @@
 - [nixtants](https://github.com/givikuna/nixtants): nix flake for free-form nix constants management (Complete)
 
 ### Web
-- [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (WiP)
+- [keti-portfolio](https://github.com/givikuna/keto-portfolio): photography portfolio website with a custom cms in typescript with astro/svelte frontend (Partially Complete, WiP)
 - [givikuna.github.io](https://github.com/givikuna/givikuna.github.io): personal portfolio website written in astro (Complete)
 
 ### School
