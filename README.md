@@ -25,7 +25,7 @@
 - [nixp](https://github.com/givikuna/nixp): a lisp-like typed programming language that compiles to nix written in odin (WiP)
 - [ynternals](https://github.com/givikuna/ynternals): declarative symmetric-key encryption secrets management system for nixos (Complete, Active Dev)
 - [gh-api-cli](https://github.com/givikuna/gh-api-cli): github api cli interface in haskell (Mostly Complete, WiP)
-- [aigest](https://github.com/givikuna/givikuna/edit/main/README.md): git repo ingestion tool written in Groovy (WiP)
+- [aigest](https://github.com/givikuna/givikuna/edit/main/README.md): git repo ingestion tool written in Groovy (Complete, Active Dev)
 - [gitboy](https://github.com/givikuna/gitboy): declarative repository management tool in rust (Complete, Active Dev)
 
 ### Flakes
